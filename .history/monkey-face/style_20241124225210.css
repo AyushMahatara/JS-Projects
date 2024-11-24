@@ -15,21 +15,3 @@ body {
   margin: 0;
   padding: 0;
 }
-
-.emoji {
-  font-size: 10rem;
-  cursor: pointer;
-  user-select: none;
-}
-
-.closed {
-  display: none;
-}
-
-.open {
-  display: none;
-}
-
-.active {
-  display: block;
-}
